@@ -16,7 +16,8 @@ _WIP_
 
 
 ## Contributors
-* Oscar 
+* Oscar
+* Shodipo Ayomide
 * Abdulazeez Abdulazeez Adeshina
 
 ## Licence
